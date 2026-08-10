@@ -22,11 +22,11 @@ The raw data file is not included in this repo, in line with the competition's d
 
 ## Files in this repo
 
-- `Project4_Time_Series_Forecasting.ipynb`: the full analysis. Structured in two parts.
+- `Time_Series_Forecasting.ipynb`: the full analysis. Structured in two parts.
   - Part A, Core Analysis: decomposition, a single chronological train/test split, SARIMAX and Prophet models, RMSE/MAPE evaluation, forecast visualized against actuals. This section on its own completes the assignment as specified.
   - Part B, Extended Validation: rolling origin cross validation across three volume tiers and three forecast quarters, a Diebold Mariano significance test, and a prediction interval calibration check. This goes beyond what the brief asked for, included to confirm the Part A result holds up under scrutiny rather than resting on one lucky split.
-- `dashboard_snippet.png`: a compact visual summary of the forecast, model comparison, and interval calibration.
-- `Project4_Recommended_Actions.docx`: a written summary of findings and recommended actions, including a plain language explanation of the key terms for a non technical reader.
+- `dashboard.png`: a compact visual summary of the forecast, model comparison, and interval calibration.
+- `Recommended_Actions.docx`: a written summary of findings and recommended actions, including a plain language explanation of the key terms for a non technical reader.
 
 ## Key findings
 
