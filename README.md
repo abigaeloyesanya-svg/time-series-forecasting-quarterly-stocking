@@ -40,3 +40,8 @@ The raw data file is not included in this repo, in line with the competition's d
 - Rolling origin validation covered three folds across one year of quarters, not a multi year window.
 - This is a historical backtest against known 2017 outcomes, used for model selection. It is not a live forecast into an unknown future quarter.
 - Three products were tested out of 500 store and item combinations in the full dataset. This establishes a directional, statistically supported model choice. It does not certify per product accuracy across the whole catalog.
+
+## Author
+
+Oluwapelumi Abigael Oyesanya, Data Analyst
+[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
