@@ -44,4 +44,4 @@ The raw data file is not included in this repo, in line with the competition's d
 ## Author
 
 Oluwapelumi Abigael Oyesanya, Data Analyst
-[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)  
